@@ -1,6 +1,6 @@
 LOCAL_PATH := $(call my-dir)
 
-ifneq ($(filter rhine shinano, $(PRODUCT_PLATFORM)), )
+ifneq ($(filter rhine shinano, $(PRODUCT_PLATFORM)),)
 
 # ------------------------------------------------------------------------------
 # ETC

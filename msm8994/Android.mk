@@ -1,6 +1,6 @@
 LOCAL_PATH := $(call my-dir)
 
-ifneq ($(filter kitakami, $(PRODUCT_PLATFORM)), )
+ifneq ($(filter kitakami, $(PRODUCT_PLATFORM)),)
 
 # ------------------------------------------------------------------------------
 # ETC

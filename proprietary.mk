@@ -21,3 +21,8 @@ PRODUCT_PACKAGES += \
     sound_trigger.primary.msm8952 \
     sound_trigger.primary.msm8974 \
     sound_trigger.primary.msm8994
+
+PRODUCT_PACKAGES += \
+    libqcbassboost \
+    libqcreverb \
+    libqcvirt

@@ -1,6 +1,6 @@
 LOCAL_PATH := $(call my-dir)
 
-ifneq ($(filter loire, $(PRODUCT_PLATFORM)), )
+ifneq ($(filter loire, $(PRODUCT_PLATFORM)),)
 
 # ------------------------------------------------------------------------------
 # ETC
